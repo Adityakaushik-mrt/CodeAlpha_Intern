@@ -6,6 +6,10 @@ This project uses Python-based exploratory data analysis (EDA) and data visualiz
 
 The analysis is designed to help identify sales trends, compare product sub-category performance, understand the relationship between discounts and profit, and highlight differences across regions, customer segments, and shipping modes.
 
+## Dashboard Image.
+<p align="left">
+<img src="https://github.com/Adityakaushik-mrt/CodeAlpha_Intern/blob/23f856c302c9a5e94128949ff458ca20b496b088/Third_Task/superstore_executive_dashboard.png"/>
+<p/>
 ## Business Questions
 
 The notebook explores these questions:
