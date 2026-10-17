@@ -5,6 +5,12 @@
 This project uses Python-based Natural Language Processing (NLP), machine learning, and data visualization to analyze customer feedback from mobile app stores and social media channels. The notebook preprocesses raw review text, computes sentiment polarity scores, trains a supervised classification model, and builds a comprehensive visual sentiment analytics dashboard to uncover operational and product-level insights.
 
 The analysis is designed to help product development and customer support teams evaluate user sentiment, categorize underlying themes, monitor star rating alignment, and identify critical category-level pain points such as app crashes, delivery delays, and refund processing issues.
+<p align="left">
+
+## Dashboard Image.
+<p/>
+<img src="https://github.com/Adityakaushik-mrt/CodeAlpha_Intern/blob/0d252c25ef9b96fb139a872a95002015af40ae34/Fouth_Task/sentiment_analysis_dashboard.png"/>
+</p>
 
 ## Business Questions
 
