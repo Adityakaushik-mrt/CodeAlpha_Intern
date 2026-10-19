@@ -8,8 +8,8 @@
 An end-to-end Exploratory Data Analysis (EDA) project analyzing consumer purchasing behavior and transaction trends during the Diwali festival season. This project identifies core customer demographics, high-value geographic segments, and top-performing product categories to provide actionable business recommendations.
 
 ---
-
-![Demo](./Sales%20Analysis%20Preview.gif)
+## 📊 Sales Analysis Preview
+![Sales Analysis Preview](https://github.com/Adityakaushik-mrt/CodeAlpha_Intern/blob/76cc00643202822eb84bdf39a655715f0f133d2b/Second_Task/Sales_Analysis_Preview.gif)
 
 ---
 
