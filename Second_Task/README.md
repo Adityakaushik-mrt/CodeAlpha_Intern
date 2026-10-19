@@ -9,7 +9,7 @@ An end-to-end Exploratory Data Analysis (EDA) project analyzing consumer purchas
 
 ---
 ## 📊 Sales Analysis Preview
-![Sales Analysis Preview](https://github.com/Adityakaushik-mrt/CodeAlpha_Intern/blob/76cc00643202822eb84bdf39a655715f0f133d2b/Second_Task/Sales_Analysis_Preview.gif)
+![](https://github.com/Adityakaushik-mrt/CodeAlpha_Intern/blob/76cc00643202822eb84bdf39a655715f0f133d2b/Second_Task/Sales_Analysis_Preview.gif)
 
 ---
 
