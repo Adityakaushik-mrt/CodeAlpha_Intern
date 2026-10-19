@@ -1,4 +1,4 @@
-# 🪔 Sales Data Analysis (Exploratory Data Analysis)
+# Sales Data Analysis (Exploratory Data Analysis)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-150458?logo=pandas)
@@ -6,6 +6,10 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7%2B-green)
 
 An end-to-end Exploratory Data Analysis (EDA) project analyzing consumer purchasing behavior and transaction trends during the Diwali festival season. This project identifies core customer demographics, high-value geographic segments, and top-performing product categories to provide actionable business recommendations.
+
+---
+
+![Demo](./Sales%20Analysis%20Preview.gif)
 
 ---
 
